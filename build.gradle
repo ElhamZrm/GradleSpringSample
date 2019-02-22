@@ -29,7 +29,7 @@ jar {
 
 sonarqube {
     properties {
-        property "sonar.projectName", "Gradle Spring Sample Elham Version Master with Key Version2"
+        property "sonar.projectName", "Gradle Spring Sample"
 //        property "sonar.branch.name","Gradle Spring Sample feature"
 //        property "sonar.branch.target","Gradle Spring Sample Elham Version without key"
         property "sonar.projectKey", "Project:Master"
